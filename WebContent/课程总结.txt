@@ -1,0 +1,55 @@
+Java Web
+基础课
+
+网页设计
+	HTML HTML5
+		基础标签-表单
+	CSS
+		样式分类：文件位置（内部、外部、行内）、样式类型（类样式、ID样式、标签样式 、复合样式）
+	网页设计流程：布局方式（div+css float）
+	Javascript：元素操作
+	
+javaSE
+	语法：变量 数据类型  值  
+		分支  循环  跳转
+	OOP：类  对象  属性 方法
+	类库：IO lang util sql
+	基础数据类型（int）--引用数据类型 （Integer） 
+	static
+	抽象类--接口
+	进程和线程
+	集合 数组
+	
+数据库：关系型 sql      非关系型NoSql：冗余
+	数据库的设计：范式
+	对象操作:建库 建表 建约束  视图 索引 事务 存储过程  函数  触发器  游标
+	数据操作:增删改查（单表  多表  子查询 分组 排序）
+	
+	
+前端：html+css+js+jquery+json+ajax
+
+
+核心课
+JSP+Servlet
+	JDBC：如何防止SQL注入
+	JSP：语法、内置对象、EL JSTL
+	Servlet：定义  功能  过滤器  监听器
+SSH框架:提高开发效率：注解
+	struts2:
+	spring.3:IOC DI AOP MVC	 
+	hibernate.4:
+	
+项目实训
+
+	个人网站
+	万年历
+	信息管理DVD
+	宠物管理
+	学籍、图书馆
+	BBS
+	在线聊天
+	房屋
+	养生
+	
+	门户+管理
+
